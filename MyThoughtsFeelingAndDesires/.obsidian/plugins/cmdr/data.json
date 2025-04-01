@@ -1,0 +1,48 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout",
+      "icon": "draw_paste",
+      "name": "Draw and embed",
+      "mode": "any",
+      "color": "#1db48e"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Create new canvas",
+      "Open today's daily note",
+      "Insert template",
+      "New drawing",
+      "Templater",
+      "Omnisearch",
+      "Advanced Tables Toolbar",
+      "Open media",
+      "Create new board",
+      "latexocr"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

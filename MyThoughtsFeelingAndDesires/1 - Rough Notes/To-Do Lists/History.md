@@ -1,0 +1,11 @@
+#hist #History
+- [ ] Ch. 1 Notes
+- [ ] Ch. 2 Notes
+- [ ] Ch. 3 Notes
+- [ ] Ch. 4 Notes
+- [ ] Ch. 5 Notes
+- [ ] Ch. 6 Notes
+- [ ] Ch. 7 Notes
+- [ ] Ch. 8 Notes
+- [ ] Review Quiz for Test 1
+- [ ] Do Discussion 2

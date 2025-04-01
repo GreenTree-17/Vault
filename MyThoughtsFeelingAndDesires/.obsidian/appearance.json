@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Encore",
+  "accentColor": "#41afa2",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Daily Note Themes",
+    "Minecraft",
+    "Notebook Backgrounds",
+    "My_Snippets"
+  ]
+}

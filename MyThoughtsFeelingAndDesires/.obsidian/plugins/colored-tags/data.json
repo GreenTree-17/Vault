@@ -1,0 +1,31 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Physics": 1,
+    "Mathmatics": 2,
+    "excalidraw": 3,
+    "note-taking": 4,
+    "obsidian": 5,
+    "pkm": 6,
+    "todo": 7,
+    "Phys": 8,
+    "Chem": 9,
+    "Chemestry": 10,
+    "Engl": 11,
+    "English": 12,
+    "hist": 13,
+    "History": 14,
+    "Chemistry": 15,
+    "School": 16
+  },
+  "_version": 3
+}

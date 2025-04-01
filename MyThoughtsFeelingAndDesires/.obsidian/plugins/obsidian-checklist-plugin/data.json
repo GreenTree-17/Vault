@@ -1,0 +1,21 @@
+{
+  "todoPageName": "todo\nPhys\nChem\nEngl\nHist",
+  "showChecked": true,
+  "showAllTodos": true,
+  "showOnlyActiveFile": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "tag",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [],
+  "_hiddenTags": [
+    "todo",
+    "phys",
+    "hist",
+    "engl"
+  ]
+}
