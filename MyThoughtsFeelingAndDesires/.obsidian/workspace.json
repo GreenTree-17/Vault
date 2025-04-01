@@ -154,8 +154,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -164,8 +164,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -174,8 +174,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -191,14 +191,33 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "5b807ac6993f8969",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "87d51b962a6389a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,6 +229,7 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
+      "cmdr:Draw and embed": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
@@ -217,10 +237,10 @@
       "obsidian-kanban:Create new board": false,
       "pomodoro-timer:Toggle timer panel": false,
       "latexocr:latexocr": false,
-      "cmdr:Draw and embed": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad83a9bc4658625e",
+  "active": "e7a027b5281b5ba4",
   "lastOpenFiles": [
     "5 - Template/Full Note.md",
     "6 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 3/Energy and Chemistry.md",

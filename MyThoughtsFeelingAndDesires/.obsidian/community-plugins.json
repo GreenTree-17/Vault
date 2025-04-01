@@ -24,5 +24,6 @@
   "obsidian-math-plus",
   "obsidian-linter",
   "obsidian-style-settings",
-  "slash-commander"
+  "slash-commander",
+  "obsidian-git"
 ]
