@@ -25,7 +25,8 @@
     "hist": 13,
     "History": 14,
     "Chemistry": 15,
-    "School": 16
+    "School": 16,
+    "Lab": 17
   },
   "_version": 3
 }
