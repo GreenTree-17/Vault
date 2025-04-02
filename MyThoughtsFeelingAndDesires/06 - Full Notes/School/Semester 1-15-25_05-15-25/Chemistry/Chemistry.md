@@ -4,6 +4,7 @@
 ## Lectures
 ```dataviewjs
 const {createButton} = app.plugins.plugins["buttons"]
+app.plugins.plugins["Templater"]
 
 let h = dv.current().file.folder.toString();
 h = h+"/Lectures"
@@ -26,9 +27,8 @@ dv.paragraph(createButton({
 	args: {
 		name: "Next lecture: "+j, 
 		type: "note("+fname+", split) template", 
-		action: "Lecture Note", 
+			action: "Lecture Note", 
 		color: "yellow",
-		templater: "true",
 	}
 }))
 ```
