@@ -26,7 +26,11 @@
     "History": 14,
     "Chemistry": 15,
     "School": 16,
-    "Lab": 17
+    "Lab": 17,
+    "InProgress": 18,
+    "Acedemic": 19,
+    "Science": 20,
+    "Academic": 21
   },
   "_version": 3
 }
