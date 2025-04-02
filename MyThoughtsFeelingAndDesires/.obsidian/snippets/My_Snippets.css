@@ -2,7 +2,7 @@
     background-color: var(--code-background);
     border-radius: var(--code-radius);
     color: var(--code-normal) !important;
-    font-family: var(--font-monospace);
+    font-family: var(--font-CMU);
     font-size: calc(var(--code-size) + 0.2em);
     padding: 0.1em 0.25em;
 }

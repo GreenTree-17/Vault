@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Template/Full Note.md",
+                "file": "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Momentum & Impulse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Note"
+              "title": "Momentum & Impulse"
             }
           }
         ]
@@ -217,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,10 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a027b5281b5ba4",
+  "active": "ad83a9bc4658625e",
   "lastOpenFiles": [
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Untitled.md",
     "05 - Template/Full Note.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Untitled.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 3/Chemical Bonding and Molecular Structure.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 3/Energy and Chemistry.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/U.S. History/Test 1/Reconstruction.md",
