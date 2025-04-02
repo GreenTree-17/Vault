@@ -25,5 +25,6 @@
   "obsidian-linter",
   "obsidian-style-settings",
   "slash-commander",
-  "obsidian-git"
+  "obsidian-git",
+  "better-word-count"
 ]

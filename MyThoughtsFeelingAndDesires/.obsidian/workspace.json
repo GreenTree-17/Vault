@@ -217,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,13 +240,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad83a9bc4658625e",
+  "active": "87d51b962a6389a6",
   "lastOpenFiles": [
+    "6 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 3/Chemical Bonding and Molecular Structure.md",
     "6 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 3/Energy and Chemistry.md",
     "6 - Full Notes/School/Semester 1-15-25_05-15-25/U.S. History/Test 1/Reconstruction.md",
     "6 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 3/Molecules and Materials.md",
     "6 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Momentum & Impulse.md",
-    "6 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 3/Chemical Bonding and Molecular Structure.md",
     "6 - Full Notes/Lab 10.md",
     "5 - Template/Full Note.md",
     "6 - Full Notes",
