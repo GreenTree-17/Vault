@@ -3,7 +3,7 @@
 
 ## Lectures
 ```dataviewjs
-const {createButton} = app.plugins.plugins["buttons"]
+const {createButton} = app.getPlugin('obsidian-meta-bind-plugin')?.api;
 
 let h = dv.current().file.folder.toString();
 h = h+"/Lectures"
