@@ -30,9 +30,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Day To Day/Daily Notes": {
+  "06 - Full Notes": "LiNotebook",
+  "01 - Rough Notes/Day To Day/Daily Notes": {
     "iconName": "LiNotebook",
     "iconColor": "#9661b3"
-  },
-  "06 - Full Notes": "LiNotebook"
+  }
 }

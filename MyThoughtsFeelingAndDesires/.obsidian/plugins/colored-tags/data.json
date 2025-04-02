@@ -30,7 +30,8 @@
     "InProgress": 18,
     "Acedemic": 19,
     "Science": 20,
-    "Academic": 21
+    "Academic": 21,
+    "lecture": 22
   },
   "_version": 3
 }
