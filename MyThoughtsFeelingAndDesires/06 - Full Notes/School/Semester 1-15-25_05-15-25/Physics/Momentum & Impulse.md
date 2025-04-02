@@ -47,9 +47,7 @@ $$
 \begin{align}
 \text{If  }  \vec{F_{net}} = 0 \\
 \vec{P_{tot,i}} = \vec{P_{tot,f}} \\
-
 \end{align}
-
 $$
 
 # Example 5

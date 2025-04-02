@@ -1,14 +1,16 @@
 .math {
     background-color: var(--code-background);
     border-radius: var(--code-radius);
-    color: var(--code-normal) !important;
+    /*color: var(#7B85E3) !important;*/
     font-family: var(--font-CMU);
     font-size: calc(var(--code-size) + 0.2em);
     padding: 0.1em 0.25em;
 }
+/*# if you want different styling for inline and block math*/
+.math.math-block { 
+    color: #95DDDF;
+}
 
-/* # if you want different styling for inline and block math
-.math.math-block { }
-
-.math.math-inline { } 
-*/
+.math.math-inline { 
+    color: #7B85E3 !important;
+} 

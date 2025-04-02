@@ -9,7 +9,7 @@ $$\text{Kinetic Energy} = \frac{1}{2}mv^2$$
 
 $$W = \text{mass }\times \text{ acceleration } \times \text{distance}=\pu{ kg \times \frac {m}{s^2} \times m }$$
 
-1 *Btu* is the required energy to raise the temperature of 1 lb of water by ${1\textdegree{F  } }$
+1 *Btu* is the required energy to raise the temperature of $\pu{1 lb}$ of water by ${1\textdegree{F  } }$
 - 1 Btu = 1055 J
  1 *Calorie* is the energy required to raise the temperature of $\pu{ 1 g }$ of water from 14.5 to $15.5\textdegree{ C }$
 - 1 calorie = 4.184 J
