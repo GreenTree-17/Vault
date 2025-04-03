@@ -242,45 +242,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "caf318f284b08c4a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f3a766197ad0cfeb",
-        "type": "window",
-        "children": [
-          {
-            "id": "b21b82a573ec3f22",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "125e1f994ba6d31b",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/",
-                    "title": "Meta Bind Docs | Meta Bind Docs",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Meta Bind Docs | Meta Bind Docs"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 340,
-        "y": 108,
-        "width": 1030,
-        "height": 806,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f7ccb30a9ced22b5",
   "lastOpenFiles": [
     "05 - Template/Course Page.md",

@@ -27,19 +27,20 @@
 			templateFile: "05 - Template/Lecture Note",
 			folderPath: h,
 			fileName: fname,
-			openNote: "true"
-		},
+			openNote: true,
+			hidden: false,
+			id: "Lecture",
+		}
 	};
 	const buttonOptions = {
 		declaration: buttonConfig,
-		isPreview: false,
+		isPreview: false
 	};
-	const container = document
+	const container = document.querySelector('.cm-contentContainer');
 	
-	const button = mb.createButtonMountable(context.file.path, buttonOptions);
-	mb.wrapInMDRC(button, container, component)
+	const button = mb.createButtonMountable(dv.current().file.toString(), buttonOptions);
+	mb.wrapInMDRC(button,container,mb.Button;
 ```
-
 
 ```dataview
 table WITHOUT ID "[["+file.name+"|Lecture "+lecture+"]]" as lecture, date,   topics, rec, coursenotes
