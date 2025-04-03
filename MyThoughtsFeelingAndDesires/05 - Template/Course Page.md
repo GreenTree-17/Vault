@@ -5,8 +5,8 @@
 ```dataviewjs
 	const mb = app.plugins.getPlugin('obsidian-meta-bind-plugin')?.api;
 	
-	let h = dv.current().file.folder.toString();
-	h = h+"/Lectures";
+	let fPath = dv.current().file.folder.toString();
+	fPath = fPath+"/Lectures";
 	
 	var j = 	dv.pages()
 		.where(k => k.file.folder == h)
@@ -25,7 +25,7 @@
 		action: {
 			type: "templaterCreateNote",
 			templateFile: "05 - Template/Lecture Note",
-			folderPath: h,
+			folderPath: fPath,
 			fileName: fname,
 			openNote: true,
 			hidden: false,
@@ -36,10 +36,9 @@
 		declaration: buttonConfig,
 		isPreview: false
 	};
-	const container = document.querySelector('.cm-contentContainer');
 	
 	const button = mb.createButtonMountable(dv.current().file.toString(), buttonOptions);
-	mb.wrapInMDRC(button,container,mb.Button;
+	mb.wrapInMDRC(button,,mb.Button;
 ```
 
 ```dataview
