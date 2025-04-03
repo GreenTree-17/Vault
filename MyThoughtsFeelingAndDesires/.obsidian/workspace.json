@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "262662dd98c644b7",
@@ -241,12 +242,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "caf318f284b08c4a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f3a766197ad0cfeb",
+        "type": "window",
+        "children": [
+          {
+            "id": "b21b82a573ec3f22",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "125e1f994ba6d31b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/",
+                    "title": "Meta Bind Docs | Meta Bind Docs",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Meta Bind Docs | Meta Bind Docs"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 108,
+        "width": 1030,
+        "height": 806,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "f7ccb30a9ced22b5",
   "lastOpenFiles": [
+    "05 - Template/Course Page.md",
     "05 - Template/Semester.md",
     "01 - Rough Notes/Physics Lecture 4-2-25.md",
     "01 - Rough Notes/To-Do Lists/Chemistry.md",
-    "05 - Template/Course Page.md",
     "05 - Template/Full Note.md",
     "05 - Template/Lecture Note.md",
     "05 - Template/Lectures/Course Page.L01.md",
