@@ -9,7 +9,7 @@
 	fPath = fPath+"/Lectures";
 	
 	var j = 	dv.pages()
-		.where(k => k.file.folder == h)
+		.where(k => k.file.folder == fPath)
 		.sort(k => k.lecture, 'asc').lecture.last();
 	
 	if (j) {
@@ -18,7 +18,7 @@
 		j=1;
 	}
 	const r = ('0' + j.toString()).slice(-2);
-	const fname = h+"/"+dv.current().file.name+".L"+r;
+	const fname = fPath+"/"+dv.current().file.name+".L"+r;
 	const buttonConfig = {
 		label: "Next lecture: "+j,
 		style: 'primary',
@@ -36,10 +36,17 @@
 		declaration: buttonConfig,
 		isPreview: false
 	};
+	const container = document.createElement("div");
 	
 	const button = mb.createButtonMountable(dv.current().file.toString(), buttonOptions);
-	mb.wrapInMDRC(button,,mb.Button;
+	const activeView = app.workspace.activeLeaf.view;
+	
+	mb.wrapInMDRC(button, container,activeView);
+	document.querySelector('.view-content').appendChild(container);
 ```
+
+
+
 
 ```dataview
 table WITHOUT ID "[["+file.name+"|Lecture "+lecture+"]]" as lecture, date,   topics, rec, coursenotes
