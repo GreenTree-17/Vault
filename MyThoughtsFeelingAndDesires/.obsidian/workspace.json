@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Momentum & Impulse.md",
+                "file": "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs/Lab 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Momentum & Impulse"
+              "title": "Lab 11"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "262662dd98c644b7",
@@ -243,6 +244,12 @@
   },
   "active": "3229c10c05819a1d",
   "lastOpenFiles": [
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs/Lab 10.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs/Lab 11.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Momentum & Impulse.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Notes",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/notes.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs",
     "06 - Full Notes/Excalidraw/School/Chemistry/Energy and Chemistry 2025-03-27 13.03.10.excalidraw.md",
     "06 - Full Notes/Excalidraw/School/Chemistry/Energy and Chemistry 2025-03-27 10.45.10.excalidraw.md",
     "06 - Full Notes/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 02.49.06.excalidraw.md",
@@ -255,20 +262,16 @@
     "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 20.47.46.excalidraw.md",
     "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-26 16.28.21.excalidraw.md",
     "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-26 16.09.48.excalidraw.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Momentum & Impulse.md",
     "undefined.md",
     "06 - Full Notes/Excalidraw/Momentum & Impulse 2025-03-30 21.10.49.excalidraw.md",
     "Excalidraw/Template.exalidraw.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Fluid Pressure.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 3/Chemical Bonding and Molecular Structure.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Notes/Test 3/Chemical Bonding and Molecular Structure.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Semester 2 year 1.md",
     "05 - Template/Lecture Note.md",
     "05 - Template/Course Page.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chem1409.L02.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Chem1409.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chem1409.L01.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chem1409.L03.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 4/Entropy and the Second Law of Thermodynamics.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry",
@@ -277,8 +280,6 @@
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "05 - Template/Lectures",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Lectures",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
