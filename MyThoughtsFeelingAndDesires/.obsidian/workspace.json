@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de379d3c9caa7f79",
+        "id": "6ddb1b8392bd94ab",
         "type": "tabs",
         "children": [
           {
-            "id": "7729bb518e22a990",
+            "id": "4b616fc3344f8fff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Template/Course Page.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Course Page"
+              "title": "New tab"
             }
           }
         ]
@@ -241,21 +237,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7729bb518e22a990",
+  "active": "4b616fc3344f8fff",
   "lastOpenFiles": [
-    "05 - Template/Full Note.md",
-    "05 - Template/Lecture Note.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Chemistry.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01 3.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01 2.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 4/Entropy and the Second Law of Thermodynamics.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01 1.md",
+    "05 - Template/Course Page.md",
+    "05 - Template/Full Note.md",
+    "05 - Template/Lecture Note.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
-    "05 - Template/Course Page.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 4/Entropy and the Second Law of Thermodynamics.md",
     "Untitled.md",
     "05 - Template/Semester.md",
     "01 - Rough Notes/Physics Lecture 4-2-25.md",
@@ -277,7 +276,6 @@
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Excalidraw/Scripts/Downloaded",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/PHYS-2305.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Lectures/PHYS-2305.L01.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
     "School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram 1.png",
