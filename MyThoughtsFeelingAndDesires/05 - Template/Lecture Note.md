@@ -1,9 +1,14 @@
 ---
 created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
 modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>
-tags: [lecture]
+tags:
+  - lecture
 topics:
- - <% tp.file.cursor(2) %>
+  - <% tp.file.cursor(2) %>
+Course: [[<%* tR += `${course}` %>]]
+lecture: <%* tR += `${lecture}` %>
+date: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
+rec:
 ---
 <%*
   let title = tp.file.title;
@@ -12,10 +17,6 @@ topics:
   lecture = Number(lecture);
 %>
 # <%* tR += `${course}` %> Lecture <%* tR += `${lecture}` %>
-- [i] course:: [[<%* tR += `${course}` %>]]
-- [i] date:: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ss") %>
-- [i] lecture:: <%* tR += `${lecture}` %>
-- [i] rec:: 
 
 # <% tp.file.cursor(1) %>
 

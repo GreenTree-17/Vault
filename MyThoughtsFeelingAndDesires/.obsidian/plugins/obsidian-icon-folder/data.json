@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAudioWaveform",
       "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
@@ -34,5 +35,6 @@
   "01 - Rough Notes/Day To Day/Daily Notes": {
     "iconName": "LiNotebook",
     "iconColor": "#9661b3"
-  }
+  },
+  "06 - Full Notes/School/Semester 1-15-25_05-15-25/Semester 2 year 1.md": "LiAudioWaveform"
 }

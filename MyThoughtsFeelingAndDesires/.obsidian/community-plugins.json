@@ -27,5 +27,8 @@
   "slash-commander",
   "obsidian-git",
   "better-word-count",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "refresh-preview",
+  "file-explorer-plus",
+  "color-folders-files"
 ]

@@ -1,4 +1,4 @@
-# PHYS-2305
+# <% tp.file.cursor(1) %>
 
 
 ## Lectures
@@ -16,7 +16,7 @@
 	    
 	    var j = dv.pages()
 	        .where(k => k.file.folder == fPath)
-	        .sort(k => k.lecture, 'asc').lecture.last();
+	        .length;
 	    
 	    if (j) {
 	        j = j + 1;

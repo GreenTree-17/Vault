@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ddb1b8392bd94ab",
+        "id": "6b1febd1a72560b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4b616fc3344f8fff",
+            "id": "be7e873ed6f043ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Template/Course Page.md",
-                "mode": "source",
-                "source": false
+                "file": "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chem1409.L02.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Course Page"
+              "title": "Chem1409.L02"
             }
           }
         ]
@@ -241,14 +241,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b616fc3344f8fff",
+  "active": "be7e873ed6f043ab",
   "lastOpenFiles": [
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Chem1409.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chem1409.L02.md",
+    "05 - Template/Lecture Note.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chem1409.L01.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 4/Entropy and the Second Law of Thermodynamics.md",
+    "undefined.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Semester 2 year 1.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/PHYS-2305.md",
+    "Untitled 3.md",
+    "05 - Template/Course Page.md",
+    "05 - Template/Semester.md",
+    "05 - Template/Full Note.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01 1.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Chemistry.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
-    "05 - Template/Course Page.md",
-    "05 - Template/Lecture Note.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Untitled.L01.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry",
@@ -256,27 +267,17 @@
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Untitled.L01.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Test 4/Entropy and the Second Law of Thermodynamics.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01 3.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01 2.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chemistry.L01 1.md",
-    "05 - Template/Full Note.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
-    "Untitled.md",
-    "05 - Template/Semester.md",
     "01 - Rough Notes/Physics Lecture 4-2-25.md",
     "01 - Rough Notes/To-Do Lists/Chemistry.md",
     "05 - Template/Lectures/Course Page.L01.md",
     "05 - Template/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/Excalidraw/School/Chemistry/Chemistry.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Lectures/Chemistry.L01.md",
-    "Untitled 1.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/new new.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 02.49.06.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 01.56.52.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 01.28.06.excalidraw.md",
     "06 - Full Notes/Excalidraw/School/Chemistry/Lectures",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
