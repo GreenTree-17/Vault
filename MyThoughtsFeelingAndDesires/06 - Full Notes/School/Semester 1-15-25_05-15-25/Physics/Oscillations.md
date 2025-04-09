@@ -27,7 +27,42 @@ $$
 ![[Oscillations 2025-04-08 20.37.32.excalidraw]]
 
 $$\begin{gather*}
-\text{displacement, }x\text{ -\color{white} the Distance from the oscillator to the equilibrium(rest), }\phi_{0}\\
-\text{amplitude, }A \text{- \color{white} maximum displacement to the equilibrium}
+\text{Displacement, }x\text{ -\color{white} the Distance from the oscillator to the equilibrium(rest), }\phi_{0}\\
+\text{Amplitude, }A \text{ - \color{white} maximum displacement to the equilibrium}
 \\
+\text{Time Period, }T \text{ - \color{white}time it takes to complete 1 full oscillation}
+\\
+\text{Frequency, }f \text{ - \color{white}number of oscillations per unit of time}
+\\
+\text{Angular Frequency, }\omega \text{ - \color{white}the rate of change of angular displacement}
 \end{gather*}$$
+$$
+\begin{gather*}
+\mathbf{Displacement}\\
+x(t) = A \cos(\omega t+\phi_{o})\\
+x(t)= A\sin(\omega t+\phi_{0})\\ \\
+\mathbf{Velocity}\\
+v(t) = \frac{dx}{dt}=-A\omega \sin(\omega t+\phi_{0})\\
+v(t)\pm \omega \sqrt{A^2 -x^2(t) }\\
+v_{max}=A\omega\\
+\omega=\sqrt{ \frac{k}{m} }\\ \\
+\mathbf{Acceleration}\\
+a(t) = \frac{d^2x}{dt^2}= -A\omega^2\cos(\omega t+\phi_{0})
+\\
+a(t) =-\omega^2x
+\\ 
+a_{max}=A\omega^2
+\\
+\\
+\mathbf{Force}\\
+F_{x} = -kx\\ \\
+\mathbf{Frequency\ and\ Period}\\
+\omega = \frac{2\pi}{T}\\
+\\
+\mathbf{Energy}\\
+\Delta E = 0
+\\
+E = \frac{1}{2}kA^2 = \frac{1}{2}mv^2+\frac{1}{2}kx^2
+
+\end{gather*}
+$$
