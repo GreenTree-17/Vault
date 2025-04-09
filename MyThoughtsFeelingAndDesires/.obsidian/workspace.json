@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "262662dd98c644b7",
@@ -199,8 +198,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -209,12 +208,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b46957d5f0da067d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -234,16 +243,18 @@
       "cmdr:Draw and embed": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pomodoro-timer:Toggle timer panel": false,
       "obsidian-projects:Open projects": false,
       "media-extended:Open media": false,
       "obsidian-kanban:Create new board": false,
+      "pomodoro-timer:Toggle timer panel": false,
       "latexocr:latexocr": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "3229c10c05819a1d",
   "lastOpenFiles": [
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Diagrams/Screenshot 2025-04-09 080732.png",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Diagrams/Screenshot 2025-04-09 080749.png",
     "Excalidraw/Oscillations 2025-04-08 20.37.32.excalidraw.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Oscillations.md",
     "Ink/Drawing/2025.4.8 - 20.23pm.drawing",
@@ -276,7 +287,6 @@
     "Excalidraw/Template.exalidraw.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Notes/Test 3/Chemical Bonding and Molecular Structure.md",
     "05 - Template/Lecture Note.md",
-    "05 - Template/Course Page.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry",

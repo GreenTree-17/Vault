@@ -66,3 +66,26 @@ E = \frac{1}{2}kA^2 = \frac{1}{2}mv^2+\frac{1}{2}kx^2
 
 \end{gather*}
 $$
+
+
+# Simple Pendulum
+$$
+\begin{gather*}
+\frac{d^2\theta}{dt^2}+\frac{g}{L}\theta  =0
+\\
+\theta\text{ \color{white} is the angular displacement from the vertical(in radians)}\\
+g \text{\color{white} is the accceleration due to gravity} \left(≈\pu{ 9.8m/s^2 } \right)\\
+L \text{ \color{white} is the length of the pendulum}
+\\
+\\
+\theta(t) = \theta_{0}\cos\left( \sqrt{ \frac{g}{l}}t+\phi  \right)
+\\
+\theta_{0} \text{ is the inital angulal displacment}
+\\
+\phi \text{is the phase constant(determined by the initial conditions)}\\
+t \text{ is the time}\\
+
+\\
+
+\end{gather*}
+$$![[Screenshot 2025-04-09 080732.png]]![[Screenshot 2025-04-09 080749.png]]
