@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs/Lab 11.md",
+                "file": "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Oscillations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 11"
+              "title": "Oscillations"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "262662dd98c644b7",
@@ -242,36 +241,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3229c10c05819a1d",
+  "active": "e7a027b5281b5ba4",
   "lastOpenFiles": [
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs/Lab 10.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Diagrams/diagram-20250408.svg",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Oscillations.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Diagrams",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Fluid Pressure.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Semester 2 year 1.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs/Lab 11.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs/Lab 10.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Momentum & Impulse.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Notes",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/notes.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Labs",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Energy and Chemistry 2025-03-27 13.03.10.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Energy and Chemistry 2025-03-27 10.45.10.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 02.49.06.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 01.56.52.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 01.28.06.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 01.18.21.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 21.42.00.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 21.20.01.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 20.56.25.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 20.47.46.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-26 16.28.21.excalidraw.md",
-    "06 - Full Notes/Excalidraw/School/Physics/Momentum & Impulse 2025-03-26 16.09.48.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Chemistry/Energy and Chemistry 2025-03-27 13.03.10.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Chemistry/Energy and Chemistry 2025-03-27 10.45.10.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 02.49.06.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 01.56.52.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 01.28.06.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Chemistry/Chemical Bonding and Molecular Structure 2025-03-27 01.18.21.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 21.42.00.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 21.20.01.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 20.56.25.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Physics/Momentum & Impulse 2025-03-30 20.47.46.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Physics/Momentum & Impulse 2025-03-26 16.28.21.excalidraw.md",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Excalidraw/School/Physics/Momentum & Impulse 2025-03-26 16.09.48.excalidraw.md",
     "undefined.md",
     "06 - Full Notes/Excalidraw/Momentum & Impulse 2025-03-30 21.10.49.excalidraw.md",
     "Excalidraw/Template.exalidraw.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Fluid Pressure.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Notes/Test 3/Chemical Bonding and Molecular Structure.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Semester 2 year 1.md",
     "05 - Template/Lecture Note.md",
     "05 - Template/Course Page.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/Chem1409.L02.md",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Chem1409.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry",
@@ -279,7 +279,6 @@
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
-    "05 - Template/Lectures",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
