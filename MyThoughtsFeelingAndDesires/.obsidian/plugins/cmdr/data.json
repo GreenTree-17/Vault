@@ -8,6 +8,12 @@
       "icon": "templater-icon",
       "name": "Templater: Create new note from template",
       "mode": "any"
+    },
+    {
+      "id": "ink:create-drawing-section",
+      "icon": "draw_default",
+      "name": "Ink: New drawing",
+      "mode": "any"
     }
   ],
   "fileMenu": [],

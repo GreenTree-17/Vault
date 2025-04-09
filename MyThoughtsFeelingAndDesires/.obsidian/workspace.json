@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "262662dd98c644b7",
@@ -241,10 +242,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a027b5281b5ba4",
+  "active": "3229c10c05819a1d",
   "lastOpenFiles": [
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Diagrams/diagram-20250408.svg",
+    "Excalidraw/Oscillations 2025-04-08 20.37.32.excalidraw.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Oscillations.md",
+    "Ink/Drawing/2025.4.8 - 20.23pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Diagrams/diagram-20250408.svg",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Diagrams",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Physics/Fluid Pressure.md",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Semester 2 year 1.md",
@@ -276,9 +281,6 @@
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School/Semester 1-15-25_05-15-25",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes/School",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures/06 - Full Notes",
-    "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Lectures",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
     "06 - Full Notes/School/Semester 1-15-25_05-15-25/Chemistry/Images/Phase Diagram.png",
