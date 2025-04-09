@@ -12,3 +12,6 @@ HC:>H2so4>h3po4>ch3cooh
 
 hcl6m>hcl1m>hcl.1m
 
+hot>rt>c
+
+FeCl3 > potato > HCl
